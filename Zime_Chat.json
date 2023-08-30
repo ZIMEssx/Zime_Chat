@@ -36,5 +36,11 @@
       "ResourceName": "Zime_Chat",
       "Version": "1.0.0"
     },
+    {
+      "ip": "140.99.96.80",
+      "License": "ZIME_Lx_Dak",
+      "ResourceName": "Zime_Chat",
+      "Version": "1.0.0"
+    },
   ]
 }
