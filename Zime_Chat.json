@@ -24,5 +24,11 @@
       "ResourceName": "Zime_Chat",
       "Version": "1.0.0"
     },
+    {
+      "ip": "103.174.190.121",
+      "License": "ZIME_deptChat",
+      "ResourceName": "Zime_Chat",
+      "Version": "1.0.0"
+    },
   ]
 }
