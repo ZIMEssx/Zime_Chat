@@ -36,5 +36,11 @@
       "ResourceName": "Zime_Chat",
       "Version": "1.0.0"
     },
+    {
+      "ip": "191.96.93.206",
+      "License": "ZIME_directx5140Chat",
+      "ResourceName": "Zime_Chat",
+      "Version": "1.0.0"
+    },
   ]
 }
