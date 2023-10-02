@@ -42,5 +42,11 @@
       "ResourceName": "Zime_Chat",
       "Version": "1.0.0"
     },
+    {
+      "ip": "141.98.19.219",
+      "License": "ZIME_umabrownChat",
+      "ResourceName": "Zime_Chat",
+      "Version": "1.0.0"
+    },
   ]
 }
